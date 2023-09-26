@@ -1,0 +1,34 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.32.2-Lima">
+  <identifier>ADMINPROV_AR</identifier>
+  <parentidentifier></parentidentifier>
+  <language>ENG</language>
+  <type>dataset</type>
+  <title>BATAS WILAYAH ADMINISTRASI PROVINSI</title>
+  <abstract>- Batas Wilayah Administrasi Kabupaten/Kota (status INDIKATIF) bersumber dari peta RBI multiskala, hasil ajudikasi (pelacakan batas secara kartometrik), peta DOB, dan lainnya
+- Batas Wilayah Administrasi Kabupaten/Kota (status DEFINITIF) bersumber dari kumpulan Peta Lampiran Permendagri hingga bulan Juli 2014
+Disclaimer : 
+- Batas Wilayah Administrasi Desa ini masih bersifat INDIKATIF 
+
+
+BATAS WILAYAH ADMINISTRASI PROVINSI</abstract>
+  <links/>
+  <dates/>
+  <fees></fees>
+  <rights>Dikompilasi oleh PPBW-BIG pada tahun 2015</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent/>
+</qgis>
